@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Paths
-SOURCE_DIR = "C:/Users/vagha/Music/24_actors"
+SOURCE_DIR = "ADD_YOUR_PATH"
 TARGET_DIR = "data"
 
 # Emotion mappings
