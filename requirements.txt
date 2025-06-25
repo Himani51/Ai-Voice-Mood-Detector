@@ -1,0 +1,8 @@
+numpy
+librosa
+streamlit
+scikit-learn
+sounddevice
+scipy
+joblib
+pickle-mixin
